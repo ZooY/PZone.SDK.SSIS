@@ -1,0 +1,5 @@
+Source/SQL Server 2014/PZone SDK SSIS/bin/
+Source/SQL Server 2014/PZone SDK SSIS/obj/
+Source/SQL Server 2016/PZone SDK SSIS/bin/
+Source/SQL Server 2016/PZone SDK SSIS/obj/
+*.suo
